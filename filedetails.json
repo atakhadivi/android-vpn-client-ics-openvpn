@@ -5,7 +5,7 @@ dev tun
 proto udp
 sndbuf 0
 rcvbuf 0
-remote 88.99.200.105 2020
+remote 172.245.104.117 2020
 resolv-retry infinite
 nobind
 persist-key
@@ -116,7 +116,7 @@ dev tun
 proto udp
 sndbuf 0
 rcvbuf 0
-remote 88.99.200.105 2020
+remote 172.245.104.117 2020
 resolv-retry infinite
 nobind
 persist-key
@@ -227,7 +227,7 @@ dev tun
 proto udp
 sndbuf 0
 rcvbuf 0
-remote 88.99.200.105 2020
+remote 172.245.104.117 2020
 resolv-retry infinite
 nobind
 persist-key
